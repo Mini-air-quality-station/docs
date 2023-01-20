@@ -2,6 +2,9 @@
 <!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" width="1180" height="580" xmlns="http://www.w3.org/2000/svg">
+	<line x1="610" y1="310" x2="760" y2="310" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="610" y1="290" x2="770" y2="290" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="770" y1="290" x2="770" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="250" y1="490" x2="280" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="250" y1="490" x2="250" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="240" y1="520" x2="250" y2="520" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
@@ -40,10 +43,7 @@
 	<text x="305" y="404" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="baseline" transform="rotate(0, 305, 404)">R1-R4</text>
 	<line x1="210" y1="330" x2="210" y2="370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<text x="450" y="130" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 450, 130)">Raspberry Pi</text>
-	<line x1="750" y1="410" x2="750" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="690" y1="410" x2="750" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="760" y1="490" x2="780" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="700" y1="400" x2="760" y2="400" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="230" y1="430" x2="240" y2="430" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="190" y1="80" x2="190" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="130" y1="80" x2="190" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
@@ -120,12 +120,8 @@
 	<line x1="209" y1="506" x2="221" y2="506" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="215" y1="506" x2="215" y2="512" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="610" y1="470" x2="780" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="610" y1="210" x2="700" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="700" y1="210" x2="700" y2="400" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="760" y1="400" x2="760" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="610" y1="230" x2="690" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="690" y1="230" x2="690" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="750" y1="480" x2="780" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="760" y1="310" x2="760" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="770" y1="480" x2="780" y2="480" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="780" y1="380" x2="780" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="780" y1="380" x2="860" y2="380" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="860" y1="150" x2="860" y2="380" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
